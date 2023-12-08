@@ -1,0 +1,28 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: 20%;
+}
+.heading{
+    color: darkmagenta;
+    background-color: bisque;
+}
+input{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    color: black;
+    background-color: red;
+}
+.result{
+    color: red;
+    font-size: larger;
+}
+.score{
+    background-color: lightgray;
+    color: red;
+    display: inline-block;
+    width: 8rem;
+    padding: 10px;
+}
